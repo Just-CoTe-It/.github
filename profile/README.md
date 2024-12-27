@@ -11,7 +11,7 @@
 - **언어**: JAVA
 - **IDE**: 웹에디터
 - **자료**: Do it! 알고리즘 코딩테스트 자바편
-- **활용**: Programmers, BAEKJOON
+- **활용**:Programmers, BAEKJOON
 - **협업 도구**: GitHub, Discord, Notion, KAKAOTALk
 
 
